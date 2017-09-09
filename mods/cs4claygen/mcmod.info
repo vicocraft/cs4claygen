@@ -1,0 +1,15 @@
+[
+{
+  "modid": "cs4claygen",
+  "name": "CS4's Clay WorldGen",
+  "description": "Add clay block generation to Minecraft",
+  "version": "1.0",
+  "mcversion": "1.12.1",
+  "url": "https://github.com/vicocraft/cs4claygen",
+  "updateUrl": "",
+  "authorList": ["vpontin"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
