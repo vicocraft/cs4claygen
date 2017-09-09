@@ -1,0 +1,16 @@
+{
+	"worldgen": [{
+		"type": "worldGen:ore",
+		"entries": [{
+			"block": "minecraft:clay",
+			"target": "minecraft:stone",
+			"targetMeta": 1,
+			"count": 20,
+			"size": 8,
+			"minHeight": 0,
+			"maxHeight": 128,
+			"dimension": 0,
+			"weight": 2
+		}]
+	}]
+}
