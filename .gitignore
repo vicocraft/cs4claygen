@@ -1,0 +1,15 @@
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
